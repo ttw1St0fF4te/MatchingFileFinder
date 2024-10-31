@@ -1,0 +1,14 @@
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/bin/Debug/net8.0/MatchingFileFinder
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/bin/Debug/net8.0/MatchingFileFinder.deps.json
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/bin/Debug/net8.0/MatchingFileFinder.runtimeconfig.json
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/bin/Debug/net8.0/MatchingFileFinder.dll
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/bin/Debug/net8.0/MatchingFileFinder.pdb
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/MatchingFileFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/MatchingFileFinder.AssemblyInfoInputs.cache
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/MatchingFileFinder.AssemblyInfo.cs
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/MatchingFileFinder.csproj.CoreCompileInputs.cache
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/MatchingFileFinder.dll
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/refint/MatchingFileFinder.dll
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/MatchingFileFinder.pdb
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/MatchingFileFinder.genruntimeconfig.cache
+/Users/keluch/Desktop/coledj/Tests/MatchingFileFinder/MatchingFileFinder/obj/Debug/net8.0/ref/MatchingFileFinder.dll
